@@ -1,0 +1,19 @@
+.Color {
+    color: red;
+}
+
+.Category {
+    color: black;
+}
+
+.Delivery {
+    color: blue;
+}
+
+.Card {
+    background: white;
+}
+
+.Refresh {
+    color: yellow;
+}
